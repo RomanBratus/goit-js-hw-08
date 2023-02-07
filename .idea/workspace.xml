@@ -35,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675621443607</updated>
-      <workItem from="1675621445361" duration="6344000" />
+      <workItem from="1675621445361" duration="6516000" />
     </task>
     <task id="LOCAL-00001" summary="update1">
       <created>1675755826766</created>
@@ -58,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675758523043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update homepage">
+      <created>1675759298425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675759298425</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +74,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update1" />
     <MESSAGE value="Update 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 3" />
+    <MESSAGE value="Update homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update homepage" />
   </component>
 </project>
