@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f689f7da-1c6b-408f-94a2-f3c6db023c7d" name="Changes" comment="" />
+    <list default="true" id="f689f7da-1c6b-408f-94a2-f3c6db023c7d" name="Changes" comment="Update 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.parcel-cache/data.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/data.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.parcel-cache/lock.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/.parcel-cache/lock.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/02-video.a74b541c.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/02-video.a74b541c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/02-video.a74b541c.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/02-video.a74b541c.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/02-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/02-video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/02-video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/02-video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/02-video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/03-feedback.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/03-feedback.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,11 +45,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675621443607</updated>
-      <workItem from="1675621445361" duration="3296000" />
+      <workItem from="1675621445361" duration="5286000" />
     </task>
+    <task id="LOCAL-00001" summary="update1">
+      <created>1675755826766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675755826766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update1" />
+    <MESSAGE value="Update 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 3" />
   </component>
 </project>
