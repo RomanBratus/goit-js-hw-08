@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f689f7da-1c6b-408f-94a2-f3c6db023c7d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/dist/02-video.a74b541c.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/02-video.a74b541c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/02-video.a74b541c.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/02-video.a74b541c.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/02-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/02-video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02-video.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/02-video.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/02-video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/02-video.js" afterDir="false" />
-    </list>
+    <list default="true" id="f689f7da-1c6b-408f-94a2-f3c6db023c7d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675621443607</updated>
-      <workItem from="1675621445361" duration="3084000" />
+      <workItem from="1675621445361" duration="3296000" />
     </task>
     <servers />
   </component>
